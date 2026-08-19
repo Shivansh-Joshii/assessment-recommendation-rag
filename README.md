@@ -1,5 +1,5 @@
 # Assessment Recommendation RAG
-
+live demo : http://13.53.163.233:8000/docs#/default/chat_chat_post
 An AI-powered Assessment Recommendation System built using Retrieval-Augmented Generation (RAG), Sentence Transformers, FAISS, FastAPI, and Groq Llama 3.3.
 
 Instead of relying on traditional keyword matching, the system performs **semantic search** using Sentence Transformers and FAISS to retrieve the most relevant assessments, then uses the **Groq Llama 3.3** Large Language Model to generate professional recommendations.
